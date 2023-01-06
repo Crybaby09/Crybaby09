@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Crybaby09
-- 👀 I’m interested in developer and ethical hacking 
-- 🌱 I’m currently learning html,js,c
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning html,css,js,php
 - 💞️ I’m looking to collaborate on developing an aplication
-- 📫 How to reach me Instagram ZeldrySs 
+- 📫 How to reach me email nolepsama45@gmail.com
 
 <!---
 Crybaby09/Crybaby09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
