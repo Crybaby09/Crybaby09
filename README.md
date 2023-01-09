@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crybaby09
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,css,js,php
+- 🌱 I’m currently learning HTML,CSS,JavaScript,PHP
 - 💞️ I’m looking to collaborate on developing an aplication
 - 📫 How to reach me email nolepsama45@gmail.com
 
